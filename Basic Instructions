@@ -1,0 +1,10 @@
+// For Writing C Code 
+
+1) Use IDE Geny(Pre installed on Raspberry PI)(Fie -> New(with template) -> Main.c to open predefined c file)
+
+2) Use IDE NetBeans (Professional, Can run on Mac, Window, Linux)(You can install it on Mac/Window and connect it to Raspberry Pi remotly)
+
+Note: 
+1) IDE Geny, Monodev and Netbeans(slow) can be installed on Raspberry PI
+2) ON IDE NetBeans and MS Visual Studio + Visual GDB you can work on mac/Winow and connect to raspberry Pi remotly
+
